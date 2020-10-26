@@ -2,9 +2,7 @@ import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.StdRandom;
 import edu.princeton.cs.algs4.StdStats;
 
-/**
- * @author Dima Pasieka
- */
+
 public class PercolationStats {
 
     // Number of independent experiments on an n-by-n grid
